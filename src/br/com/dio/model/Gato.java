@@ -1,6 +1,5 @@
 package br.com.dio.model;
 
-
 import java.util.Objects;
 
 public class Gato {
@@ -61,6 +60,6 @@ public class Gato {
                 ", idade=" + idade +
                 '}';
     }
-    // comentario 2
+    // comentario 3
 }
 
